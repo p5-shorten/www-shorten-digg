@@ -17,7 +17,7 @@ Martin Broerse <`broerse@martinic.com`>
 
 # CONTRIBUTORS
 
-- Chase Whitener `capoeirab@cpan.org`
+- Chase Whitener <`capoeirab@cpan.org`>
 
 # COPYRIGHT AND LICENSE
 

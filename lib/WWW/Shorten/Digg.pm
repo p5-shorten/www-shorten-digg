@@ -34,7 +34,7 @@ Martin Broerse <F<broerse@martinic.com>>
 
 =item *
 
-Chase Whitener C<capoeirab@cpan.org>
+Chase Whitener <F<capoeirab@cpan.org>>
 
 =back
 
