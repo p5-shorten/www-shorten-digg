@@ -1,6 +1,9 @@
 Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
+    - Forgot to include that it's now deprecated
+
+0.020     2016-10-24
     -
 
 0.01  Fri, 10 Apr 2008
