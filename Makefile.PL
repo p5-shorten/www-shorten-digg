@@ -17,26 +17,14 @@ my %WriteMakefileArgs = (
   "MIN_PERL_VERSION" => "5.008001",
   "NAME" => "WWW::Shorten::Digg",
   "PREREQ_PM" => {
-    "Carp" => 0,
-    "Exporter" => 0,
-    "File::HomeDir" => "1.00",
-    "File::Spec" => 0,
-    "JSON::MaybeXS" => 0,
-    "LWP::Protocol::https" => 0,
-    "Path::Tiny" => 0,
-    "Scalar::Util" => 0,
-    "URI" => "1.58",
     "WWW::Shorten" => "3.09",
     "base" => 0,
-    "constant" => 0,
     "strict" => 0,
     "warnings" => 0
   },
   "TEST_REQUIRES" => {
     "ExtUtils::MakeMaker" => 0,
-    "File::HomeDir" => "1.00",
     "File::Spec" => 0,
-    "Path::Tiny" => 0,
     "Test::More" => "0.88"
   },
   "VERSION" => "0.020",
@@ -47,20 +35,11 @@ my %WriteMakefileArgs = (
 
 
 my %FallbackPrereqs = (
-  "Carp" => 0,
-  "Exporter" => 0,
   "ExtUtils::MakeMaker" => 0,
-  "File::HomeDir" => "1.00",
   "File::Spec" => 0,
-  "JSON::MaybeXS" => 0,
-  "LWP::Protocol::https" => 0,
-  "Path::Tiny" => 0,
-  "Scalar::Util" => 0,
   "Test::More" => "0.88",
-  "URI" => "1.58",
   "WWW::Shorten" => "3.09",
   "base" => 0,
-  "constant" => 0,
   "strict" => 0,
   "warnings" => 0
 );
